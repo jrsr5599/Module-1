@@ -1,5 +1,5 @@
 # Module-1
-Module 1 challenge
+## Module 1 challenge
 
 ## User Story
 
@@ -20,4 +20,17 @@ Module 1 challenge
 * It is done when the heading attributes fall into sequential order. 
 
 * It is done when the title element has a concise, descriptive title
+
+## Assets
+
+Here is a picture of the website:
+
+![A marketing company that shows three boxes, two to the left, one to the right.](assets/images/module-1-image-finished.png)
+
+The image shows three boxes and a side box to the right, making it accesible to the reader. 
+
+
+
+
+
 
